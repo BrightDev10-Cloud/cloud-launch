@@ -18,13 +18,13 @@ Tasks covered:
 
 - VPC Network Design for secure resource separation
 
-### Submision Links
+## Submision Links
 
-S3 Site Link:
-http://cloudlaunch-site-bucket.s3-website-<region>.amazonaws.com
+- S3 Site Link:
+  http://cloudlaunch-site-bucket.s3-website-<region>.amazonaws.com
 
-CloudFront URL (if configured):
-https://<distribution-id>.cloudfront.net
+- CloudFront URL:
+  https://<distribution-id>.cloudfront.net
 
 ## Task 1: Static Website Hosting and Secure File Storage
 
